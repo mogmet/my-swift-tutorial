@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B513734419623BE000FDABBF /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = B513734319623BE000FDABBF /* Album.swift */; };
+		B513734619637AD300FDABBF /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B513734519637AD300FDABBF /* DetailsViewController.swift */; };
 		B54B023D195B9A41007A1724 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54B023C195B9A41007A1724 /* AppDelegate.swift */; };
 		B54B0240195B9A41007A1724 /* SwiftTutorial.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B54B023E195B9A41007A1724 /* SwiftTutorial.xcdatamodeld */; };
 		B54B0242195B9A41007A1724 /* SearchResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54B0241195B9A41007A1724 /* SearchResultsViewController.swift */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		B513734319623BE000FDABBF /* Album.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
+		B513734519637AD300FDABBF /* DetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		B54B0237195B9A41007A1724 /* SwiftTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B54B023B195B9A41007A1724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B54B023C195B9A41007A1724 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				B54B023A195B9A41007A1724 /* Supporting Files */,
 				B54B025C195C444C007A1724 /* APIController.swift */,
 				B513734319623BE000FDABBF /* Album.swift */,
+				B513734519637AD300FDABBF /* DetailsViewController.swift */,
 			);
 			path = SwiftTutorial;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				B54B023D195B9A41007A1724 /* AppDelegate.swift in Sources */,
 				B54B0240195B9A41007A1724 /* SwiftTutorial.xcdatamodeld in Sources */,
 				B513734419623BE000FDABBF /* Album.swift in Sources */,
+				B513734619637AD300FDABBF /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
